@@ -27,5 +27,5 @@ This is a **RESTful API** built with **Node.js, Express, and JWT authentication*
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ahmedehhab/saraha.git
 cd your-repo
